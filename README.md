@@ -15,7 +15,7 @@ During my last work-study experience, I had the opportunity to develop on a vari
 ### 🛠 &nbsp;Languages and Tools:
 
   ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-
+  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
   
 <!--
 **AydinMuhammed/AydinMuhammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
