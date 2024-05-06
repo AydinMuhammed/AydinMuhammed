@@ -12,7 +12,7 @@ Having been accepted at the CNAM Strasbourg, I'm looking for an apprenticeship c
 
 During my last work-study experience, I had the opportunity to develop on a variety of technologies, particularly in the web, CMS and frameworks fields. My role allowed me to explore both back-end and front-end development, as well as database design. I'm definitely open to learning new programming languages and technologies, ready to take on new challenges with enthusiasm.
 
-### 🛠 &nbsp;Languages and Tools:
+### 🛠 &nbsp;Languages, Tools and Frameworks:
 
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,js)](https://skillicons.dev)
 
