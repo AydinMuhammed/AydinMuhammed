@@ -14,7 +14,7 @@ During my last work-study experience, I had the opportunity to develop on a vari
 
 ### 🛠 &nbsp;Languages, Tools and Frameworks:
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,wp,html,css,js)](https://skillicons.dev)
 
 <!--- **AydinMuhammed/AydinMuhammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
