@@ -40,6 +40,7 @@ During my last work-study experience, I had the opportunity to develop on a vari
 </p>
 </div>
 <br>
+
 ### ⚙️ &nbsp; Github Analytics :
 
 <div align="right">
