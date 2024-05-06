@@ -3,9 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-emin-a-6888001b7)
 
 ### 👔 &nbsp;What about me ?
-<div>
+<div style="overflow: auto;">
   <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-  <p style="text-align: justify;">
+  <p style="text-align: justify; margin-right: 400px;">
     Companies looking for a versatile profile in web and software development,
 
     If you know of any interesting opportunities, I'd be delighted to hear from you.
