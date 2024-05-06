@@ -2,8 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-emin-a-6888001b7)
 
-<div style="display: flex; flex-direction: row; align-items: center;">
-  <div style="flex: 1;">
+<div style="overflow: auto;">
+  <div style="float: left; width: 60%;">
     <h3>👔 &nbsp;What about me ?</h3>
     <p>
       Companies looking for a versatile profile in web and software development,
@@ -15,8 +15,8 @@
       During my last work-study experience, I had the opportunity to develop on a variety of technologies, particularly in the web, CMS and frameworks fields. My role allowed me to explore both back-end and front-end development, as well as database design. I'm definitely open to learning new programming languages and technologies, ready to take on new challenges with enthusiasm.
     </p>
   </div>
-  <div style="flex: 1;">
-    <img style="float: right;" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+  <div style="float: right; width: 40%;">
+    <img height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
   </div>
 </div>
 
