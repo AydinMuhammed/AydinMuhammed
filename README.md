@@ -16,11 +16,7 @@ During my last work-study experience, I had the opportunity to develop on a vari
 
 <div class="text-center">
 
-[![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)](https://www.java.com)
-[![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)](https://wordpress.org/)
-[![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 
 </div>
 
