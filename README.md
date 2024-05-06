@@ -17,7 +17,7 @@ During my last work-study experience, I had the opportunity to develop on a vari
 </div>
 
 ### 🛠 &nbsp;Languages, Tools and Frameworks :
-
+<div>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,php" />
@@ -38,7 +38,7 @@ During my last work-study experience, I had the opportunity to develop on a vari
     <img src="https://skillicons.dev/icons?i=symfony,react,tailwind,bootstrap" />
   </a>
 </p>
-
+</div>
 ### ⚙️ &nbsp; Github Analytics :
 
 <div align="right">
