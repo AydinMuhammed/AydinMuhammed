@@ -4,7 +4,7 @@
 
 ### 👔 &nbsp;What about me ?
 <div>
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+      <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 Companies looking for a versatile profile in web and software development,
 
