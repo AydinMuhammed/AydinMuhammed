@@ -14,10 +14,9 @@ During my last work-study experience, I had the opportunity to develop on a vari
 
 ### 🛠 &nbsp;Languages, Tools and Frameworks:
 
-[![My Skills](https://skillicons.dev/icons?i=,sql)](https://skillicons.dev)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,wordpress,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=java,wordpress,html,css,js,mysql,symfony,react,tailwind,bootstrap,php,git,github" />
   </a>
 </p>
 
