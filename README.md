@@ -21,7 +21,7 @@ During my last work-study experience, I had the opportunity to develop on a vari
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wordpress,html,css,js/>
+    <img src="https://skillicons.dev/icons?i=wordpress,html,css,js" />
   </a>
 </p>
 <p align="center">
