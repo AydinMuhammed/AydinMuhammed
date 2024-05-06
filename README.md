@@ -15,7 +15,7 @@ During my last work-study experience, I had the opportunity to develop on a vari
 ### 🛠 &nbsp;Languages and Tools:
 
 <p align="center">
-  ![Static Badge](https://img.shields.io/badge/:badgeContent)&nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
   
 </p>
 <!--
