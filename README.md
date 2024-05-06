@@ -14,8 +14,9 @@ During my last work-study experience, I had the opportunity to develop on a vari
 
 ### 🛠 &nbsp;Languages and Tools:
 
-| <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java" width="50"/> | ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress) | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3) | ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) |
-|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| [![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)](https://www.java.com) | ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress) | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3) | ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) |
+|-----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+
 
 <!--- **AydinMuhammed/AydinMuhammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
