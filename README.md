@@ -37,12 +37,11 @@ During my last work-study experience, I had the opportunity to develop on a vari
 
 ### ⚙️ &nbsp; Github Analytics :
 
-<div align="right-center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AydinMuhammed&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&order=1&theme=ayu-mirage" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=AydinMuhammed&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&hide_border=true&order=2&theme=ayu-mirage" height="150" alt="languages graph"  />
-</div>
 <div align="right">
-  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AydinMuhammed&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&order=1&theme=ayu-mirage" height="150" alt="stats graph"  />
+</div>
+<div align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=AydinMuhammed&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&hide_border=true&order=2&theme=ayu-mirage" height="150" alt="languages graph"  />
 </div>
     
 <!--- **AydinMuhammed/AydinMuhammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
