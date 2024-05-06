@@ -17,7 +17,7 @@ During my last work-study experience, I had the opportunity to develop on a vari
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,php" />
-    <img src="https://skillicons.dev/icons?i=wordpress,html,css,js,mysql,symfony,react,tailwind,bootstrap,,git,github,nodejs,npm" />
+    <img src="https://skillicons.dev/icons?i=wordpress,html,css,js,mysql,symfony,react,tailwind,bootstrap,git,github,nodejs,npm" />
   </a>
 </p>
 
