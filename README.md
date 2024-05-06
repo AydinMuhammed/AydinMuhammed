@@ -13,6 +13,11 @@ Having been accepted at the CNAM Strasbourg, I'm looking for an apprenticeship c
 During my last work-study experience, I had the opportunity to develop on a variety of technologies, particularly in the web, CMS and frameworks fields. My role allowed me to explore both back-end and front-end development, as well as database design. I'm definitely open to learning new programming languages and technologies, ready to take on new challenges with enthusiasm.
 
 ### 🛠 &nbsp;Languages and Tools:
+
+<p align="center">
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+  
+</p>
 <!--
 **AydinMuhammed/AydinMuhammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
