@@ -15,7 +15,7 @@ During my last work-study experience, I had the opportunity to develop on a vari
 ### 🛠 &nbsp;Languages and Tools:
 
 <p align="center">
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+  ![Static Badge](https://img.shields.io/badge/:badgeContent)&nbsp;
   
 </p>
 <!--
