@@ -3,8 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-emin-a-6888001b7)
 
 ### 👔 &nbsp;What about me ?
-<div>
-      <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 Companies looking for a versatile profile in web and software development,
 
@@ -14,9 +14,6 @@ Having been accepted at the CNAM Strasbourg, I'm looking for an apprenticeship c
 
 During my last work-study experience, I had the opportunity to develop on a variety of technologies, particularly in the web, CMS and frameworks fields. My role allowed me to explore both back-end and         front-end development, as well as database design. I'm definitely open to learning new programming languages and technologies, ready to take on new challenges with enthusiasm.
   
-</div>
-
-
 ### 🛠 &nbsp;Languages, Tools and Frameworks :
 <div>
 <p align="center">
