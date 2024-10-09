@@ -10,9 +10,9 @@ Companies looking for a versatile profile in web and software development,
 
 If you know of any interesting opportunities, I'd be delighted to hear from you.
 
-Having been accepted at the CNAM Strasbourg, I'm looking for an apprenticeship contract for a fourth-year diploma in "IT Infrastructure Designer and Integrator - Information Systems".
+Having started my studies at Epitech Strasbourg on October 7, 2024, in the first year of the Master’s program "MSC Pro", I am currently seeking an apprenticeship contract to pursue my degree.
 
-During my last work-study experience, I had the opportunity to develop on a variety of technologies, particularly in the web, CMS and frameworks fields. My role allowed me to explore both back-end and front-end development, as well as database design. I'm definitely open to learning new programming languages and technologies, ready to take on new challenges with enthusiasm.
+Throughout my academic journey and previous work-study experience, I have gained hands-on experience with a range of technologies, languages, and frameworks, including CMS, React, Symfony, Docker, Tailwind CSS, Java, PHP, and JavaScript. I have worked on both back-end and front-end development, allowing me to deepen my skills in full-stack development. I am enthusiastic about learning new technologies and ready to embrace new challenges with eagerness.
   
 ### 🛠 &nbsp;Languages, Tools and Frameworks :
 <div>
