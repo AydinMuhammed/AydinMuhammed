@@ -6,9 +6,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-emin-a-6888001b7)
 
 ### 👔 &nbsp;What about me ?
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 <div>
-  <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-</br>
   <ul>
     <li>📑Actuellement en formation POEI “Développeur IA Reactive”, je suis à la recherche d’un contrat en alternance afin de réaliser un “Mastère européen Expert IT : Applications intelligentes et Big Data”</li>
     <li> 📅A partir de septembre 2025 jusqu’en septembre 2027, 24 mois </li>
