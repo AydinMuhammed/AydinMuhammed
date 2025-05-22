@@ -8,6 +8,7 @@
 ### 👔 &nbsp;What about me ?
 <div>
   <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+</br>
   <ul>
     <li>📑Actuellement en formation POEI “Développeur IA Reactive”, je suis à la recherche d’un contrat en alternance afin de réaliser un “Mastère européen Expert IT : Applications intelligentes et Big Data”</li>
     <li> 📅A partir de septembre 2025 jusqu’en septembre 2027, 24 mois </li>
