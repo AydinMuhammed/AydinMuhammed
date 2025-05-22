@@ -6,16 +6,16 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-emin-a-6888001b7)
 
 ### 👔 &nbsp;What about me ?
-
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-
-Companies looking for a versatile profile in web and software development,
-
-If you know of any interesting opportunities, I'd be delighted to hear from you.
-
-Having started my studies at Epitech Strasbourg on October 7, 2024, in the first year of the Master’s program "MSC Pro", I am currently seeking an apprenticeship contract to pursue my degree.
-
-Throughout my academic journey and previous work-study experience, I have gained hands-on experience with a range of technologies, languages, and frameworks, including CMS, React, Symfony, Docker, Tailwind CSS, Java, PHP, and JavaScript. I have worked on both back-end and front-end development, allowing me to deepen my skills in full-stack development. I am enthusiastic about learning new technologies and ready to embrace new challenges with eagerness.
+<div>
+  <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+  <ul>
+    <li>📑Actuellement en formation POEI “Développeur IA Reactive”, je suis à la recherche d’un contrat en alternance afin de réaliser un “Mastère européen Expert IT : Applications intelligentes et Big Data”</li>
+    <li> 📅A partir de septembre 2025 jusqu’en septembre 2027, 24 mois </li>
+    <li>🏃‍♂️Rythme: 2 semaines en entreprise et 1 semaine en formation </li>
+    <li>🏫Centre de formation Dawan à Strasbourg </li>
+    <li>🗺Secteur de recherche : Mulhouse – Colmar – Sélestat – Strasbourg </li>
+  </ul>
+</div>
   
 ### 🛠 &nbsp;Languages, Tools and Frameworks :
 <div>
