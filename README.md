@@ -54,9 +54,12 @@
 
 ### 🧠 Mon niveau sur Codewars et mon apprentissage Python sur Exercism 
 
-![Codewars](https://www.codewars.com/users/AydinMuhammed/badges/large)
-
-[![Exercism](https://img.shields.io/badge/Exercism-Python%20Track-blue)](https://exercism.org/profiles/AydinMuhammed)
+<p align="center">
+  <img src="https://www.codewars.com/users/AydinMuhammed/badges/large" alt="Codewars Badge" style="margin-right: 20px;" />
+  <a href="https://exercism.org/profiles/AydinMuhammed">
+    <img src="https://img.shields.io/badge/Exercism-Python%20Track-blue" alt="Exercism Badge" />
+  </a>
+</p>
 
 <!--- **AydinMuhammed/AydinMuhammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
