@@ -52,9 +52,14 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=AydinMuhammed&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&hide_border=true&order=2&theme=ayu-mirage" height="150" alt="languages graph"  />
 </div>
 
-### 🧠 Mon niveau sur Codewars
+### 🧠 Mon niveau sur Codewars et mon apprentissage Python sur Exercism 
 
-![Codewars](https://www.codewars.com/users/AydinMuhammed/badges/large)
+<div align="left">
+  ![Codewars](https://www.codewars.com/users/AydinMuhammed/badges/large)
+</div>
+<div align="right">
+  [![Exercism](https://img.shields.io/badge/Exercism-Python%20Track-blue)](https://exercism.org/profiles/AydinMuhammed)
+</div>
 
 <!--- **AydinMuhammed/AydinMuhammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
