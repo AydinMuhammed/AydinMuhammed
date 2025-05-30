@@ -53,7 +53,7 @@
 </div>
 
 <h3 align="center">🧠 Mon niveau sur Codewars et mon apprentissage Python sur Exercism</h3> 
-
+</br>
 <p align="left">
   <img src="https://www.codewars.com/users/AydinMuhammed/badges/large" alt="Codewars Badge" style="margin-right: 20px;" />
 </p>
