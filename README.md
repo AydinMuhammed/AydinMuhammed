@@ -52,7 +52,7 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=AydinMuhammed&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&hide_border=true&order=2&theme=ayu-mirage" height="150" alt="languages graph"  />
 </div>
 
-### 🧠 Mon niveau sur Codewars et mon apprentissage Python sur Exercism 
+<h3 align="center">🧠 Mon niveau sur Codewars et mon apprentissage Python sur Exercism</h3> 
 
 <p align="left">
   <img src="https://www.codewars.com/users/AydinMuhammed/badges/large" alt="Codewars Badge" style="margin-right: 20px;" />
