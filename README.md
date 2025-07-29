@@ -1,6 +1,6 @@
 # &nbsp;Hi there 👋, I'm [Muhammed](https://github.com/AydinMuhammed)
 ## DÉVELOPPEUR FULLSTACK EN SPÉCIALISATION IA/BIG DATA
-## WORDPRESS-SYMFONY-NEXT.JS/PYTHON
+## WORDPRESS-SYMFONY-NEXT.JS/PYTHON-DJANGO
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-emin-a-6888001b7)
